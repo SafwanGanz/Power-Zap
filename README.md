@@ -27,49 +27,49 @@ Power Zap helps business owners organize customer contacts and manage WhatsApp m
 
 See contact totals, opt-outs, active campaigns, completed campaigns, and recent activity at a glance.
 
-![Power Zap dashboard](assets/screenshots/01-dashboard.jpg)
+![Power Zap dashboard](screenshots/01-dashboard.jpg)
 
 ### 2. Contact management
 
 Import contacts from a CSV file, search for people, filter records, and organize contact lists.
 
-![Power Zap contacts](assets/screenshots/02-contacts.jpg)
+![Power Zap contacts](screenshots/02-contacts.jpg)
 
 ### 3. Connect WhatsApp
 
 Link your WhatsApp account by scanning the QR code from WhatsApp's **Linked devices** menu. The screenshot shows a connected state.
 
-![Power Zap WhatsApp connection](assets/screenshots/03-whatsapp-connection.jpg)
+![Power Zap WhatsApp connection](screenshots/03-whatsapp-connection.jpg)
 
 ### 4. Campaign activity
 
 Review recorded activity and filter events by recipient, status, or campaign. Export activity to CSV when needed.
 
-![Power Zap activity history](assets/screenshots/04-activity-history.jpg)
+![Power Zap activity history](screenshots/04-activity-history.jpg)
 
 ### 5. Sending preferences
 
 Choose a sending pace, set a daily message cap, configure quiet hours, and enable a warning when campaign opt-out instructions are missing.
 
-![Power Zap sending preferences](assets/screenshots/05-sending-preferences.jpg)
+![Power Zap sending preferences](screenshots/05-sending-preferences.jpg)
 
 ### 6. Opt-out management
 
 Configure keywords such as STOP, UNSUBSCRIBE, and CANCEL. Contacts who opt out are excluded from future campaigns.
 
-![Power Zap opt-out management](assets/screenshots/06-opt-out-management.jpg)
+![Power Zap opt-out management](screenshots/06-opt-out-management.jpg)
 
 ### 7. Privacy and data retention
 
 Set how long activity events are retained and choose whether outgoing message content is logged. The database reset option permanently deletes stored app data.
 
-![Power Zap privacy and retention](assets/screenshots/07-privacy-retention.jpg)
+![Power Zap privacy and retention](screenshots/07-privacy-retention.jpg)
 
 ### 8. Account and session settings
 
 Review the linked WhatsApp companion session and log out when necessary. Logging out clears saved companion credentials and pauses active campaigns, as described in the interface.
 
-![Power Zap account and session](assets/screenshots/08-account-session.jpg)
+![Power Zap account and session](screenshots/08-account-session.jpg)
 
 ## Getting started
 
