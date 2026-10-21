@@ -99,9 +99,9 @@ Want to use Power Zap for your business?
 
 **Take the next step:** [Get Started](#getting-started) or contact the Power Zap team to ask about setup and usage.
 
-- Website: _Add your website URL_
-- Business WhatsApp: _Add your contact link_
-- Email: _Add your business email_
+- Website: www.safwanganz.tech
+- Business WhatsApp: wa.me/917306771605
+- Email: hello@safwanganz.tech
 
 ---
 
