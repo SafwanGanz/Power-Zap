@@ -21,6 +21,18 @@ Power Zap helps business owners organize customer contacts and manage WhatsApp m
 - **Manage your connection:** View the linked WhatsApp session and log out when needed.
 - **Keep data locally:** Contact, campaign, and activity data are stored in the app's local SQLite database, according to the current implementation shown in the interface.
 
+## Sending safeguards and how they work
+
+Power Zap includes controls to support considerate, consent-based messaging. These are operational safeguards—not anti-ban tricks—and they cannot prevent account restrictions or replace compliance with WhatsApp's terms and policies.
+
+- **Message pacing:** Before each campaign message, the app estimates a wait from its content length: 40 ms per character, plus 60 ms per whitespace character and 100 ms per emoji code point. The wait is limited to 1–10 seconds.
+- **Daily cap:** The app limits successful sends across all campaigns to 20 per day during the first week, 30 per day during the second week, and 45 per day from the third week onward. The week count begins with the first successful campaign send. When the daily cap is reached, queued campaign messages wait until sending is allowed again.
+- **Quiet hours:** When enabled, campaign sends pause between 21:00 and 08:00 local time and resume after quiet hours.
+- **Opt-out handling:** With automatic opt-out processing enabled, replies matching configured keywords (such as STOP, UNSUBSCRIBE, or CANCEL) mark the contact as opted out. Opted-out contacts are excluded from future campaign sends, including if they were already queued.
+- **Opt-out instructions:** The optional Campaign Builder check warns or blocks validation when a message is missing opt-out instructions, according to the setting.
+
+Only message people who have agreed to receive your communications. Honor every opt-out request, even if it does not match a configured keyword.
+
 ## Screenshots
 
 ### 1. Business dashboard
