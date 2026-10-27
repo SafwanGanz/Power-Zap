@@ -39,49 +39,67 @@ Only message people who have agreed to receive your communications. Honor every 
 
 See contact totals, opt-outs, active campaigns, completed campaigns, and recent activity at a glance.
 
-![Power Zap dashboard](screenshots/01-dashboard.jpg)
+![Power Zap dashboard](screenshots/1.png)
 
 ### 2. Contact management
 
 Import contacts from a CSV file, search for people, filter records, and organize contact lists.
 
-![Power Zap contacts](screenshots/02-contacts.jpg)
+![Power Zap contacts](screenshots/2.png)
 
-### 3. Connect WhatsApp
+### 3. Import contacts
 
-Link your WhatsApp account by scanning the QR code from WhatsApp's **Linked devices** menu. The screenshot shows a connected state.
+Upload a CSV file, map its columns to contact fields, choose how duplicates are handled, and review number validation results before importing.
 
-![Power Zap WhatsApp connection](screenshots/03-whatsapp-connection.jpg)
+![Power Zap contact import](screenshots/3.png)
 
-### 4. Campaign activity
+### 4. Contact lists
+
+Create and manage contact lists, review each list's eligibility and opt-out totals, and see the contacts organized in each audience.
+
+![Power Zap contact lists](screenshots/4.png)
+
+### 5. Campaigns
+
+Review campaigns by status, start a new campaign, and follow its recipients through queued, sent, delivered, failed, or unknown outcomes. The campaign workflow lets you select an audience, prepare a message, and monitor results.
+
+![Power Zap campaigns](screenshots/5.png)
+
+### 6. Campaign activity
 
 Review recorded activity and filter events by recipient, status, or campaign. Export activity to CSV when needed.
 
-![Power Zap activity history](screenshots/04-activity-history.jpg)
+![Power Zap activity history](screenshots/6.png)
 
-### 5. Sending preferences
+### 7. Connect WhatsApp
+
+Link your WhatsApp account by scanning the QR code from WhatsApp's **Linked devices** menu. The screenshot shows a connected state.
+
+![Power Zap WhatsApp connection](screenshots/7.png)
+
+### 8. Sending preferences
 
 Choose a sending pace, set a daily message cap, configure quiet hours, and enable a warning when campaign opt-out instructions are missing.
 
-![Power Zap sending preferences](screenshots/05-sending-preferences.jpg)
+![Power Zap sending preferences](screenshots/8.png)
 
-### 6. Opt-out management
+### 9. Opt-out management
 
 Configure keywords such as STOP, UNSUBSCRIBE, and CANCEL. Contacts who opt out are excluded from future campaigns.
 
-![Power Zap opt-out management](screenshots/06-opt-out-management.jpg)
+![Power Zap opt-out management](screenshots/9.png)
 
-### 7. Privacy and data retention
+### 10. Privacy and data retention
 
 Set how long activity events are retained and choose whether outgoing message content is logged. The database reset option permanently deletes stored app data.
 
-![Power Zap privacy and retention](screenshots/07-privacy-retention.jpg)
+![Power Zap privacy and retention](screenshots/10.png)
 
-### 8. Account and session settings
+### 11. Account and session settings
 
 Review the linked WhatsApp companion session and log out when necessary. Logging out clears saved companion credentials and pauses active campaigns, as described in the interface.
 
-![Power Zap account and session](screenshots/08-account-session.jpg)
+![Power Zap account and session](screenshots/11.png)
 
 ## Getting started
 
